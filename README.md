@@ -14,7 +14,7 @@ Two platforms in production for clients. One handles program registration and on
 A mobile app that takes a shared TikTok, Instagram or YouTube link and turns the video into a recipe, workout or travel plan.
 
 ### [ECHO](https://salman-alzamil.github.io/ECHO/)
-Pronunciation practice. You say a line back and see your pitch drawn against the target, with a score for pitch and rhythm.
+Language learning app. Clones your voice then lets you hear yourself speak in your target language. You speak along with it and it compares the pitch and rhythm of your voice with the target on your own device.
 
 ### [Skylight](https://salman-alzamil.github.io/skylight/)
 A weather app drawn on a live WebGL2 sky, written in plain JavaScript with no build step.
