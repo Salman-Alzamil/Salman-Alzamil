@@ -23,7 +23,7 @@ I also run a multi-agent system on my own machine that handles research and sche
 
 ## Tools I use most
 
-Python, TypeScript, SQL, FastAPI, PostgreSQL, pgvector, Supabase, PyTorch, YOLOv8, Next.js, React Native, Docker
+PyTorch, YOLOv8, Gemini API, pgvector, FastAPI, Supabase, PostgreSQL, SQLite, Next.js, React, React Native, Expo, Playwright, Vitest, Jest, Docker, Vercel, Cloudflare Workers, GitHub Actions
 
 ## Contact
 
