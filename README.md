@@ -21,9 +21,13 @@ A weather app drawn on a live WebGL2 sky, written in plain JavaScript with no bu
 
 I also run a multi-agent system on my own machine that handles research and scheduled reporting.
 
-## Tools I use most
+## Stack
 
-PyTorch, YOLOv8, Gemini API, pgvector, FastAPI, Supabase, PostgreSQL, SQLite, Next.js, React, React Native, Expo, Playwright, Vitest, Jest, Docker, Vercel, Cloudflare Workers, GitHub Actions
+PyTorch, YOLOv8, Gemini API, pgvector, FastAPI, Supabase, PostgreSQL, SQLite, Next.js, React, React Native, Expo, Vitest, Jest
+
+## Tools
+
+Claude Code, Codex, OpenClaw, Docker, GitHub Actions, Vercel, Cloudflare Workers, Expo EAS, Playwright
 
 ## Contact
 
