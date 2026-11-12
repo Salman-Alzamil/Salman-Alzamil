@@ -13,12 +13,6 @@ Two platforms in production for clients. One handles program registration and on
 ### [Marrow](https://github.com/Salman-Alzamil/marrow)
 A mobile app that takes a shared TikTok, Instagram or YouTube link and turns the video into a recipe, workout or travel plan.
 
-### [ECHO](https://salman-alzamil.github.io/ECHO/)
-Language learning app. Clones your voice, then lets you hear yourself speak in your target language. You speak along with it and it compares the pitch and rhythm of your voice with the target, all on your device.
-
-### [Skylight](https://salman-alzamil.github.io/skylight/)
-A weather app drawn on a live WebGL2 sky, written in plain JavaScript with no build step.
-
 I also run a multi-agent system on my own machine that handles research and scheduled reporting.
 
 ## Tools
